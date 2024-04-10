@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Travis Huynh!
-CSSE student at UWB with experience in Python, Java, C++, and SQL. He is particularly interested in software engineering, data science, and web development. Travis is actively seeking opportunities to contribute to impactful projects and make a difference in the tech industry.
+CSSE student at UWB with experience in Python, Java, C++, and SQL. Actively seeking opportunities to contribute to impactful projects and make a difference in the tech industry!
 
 ## Projects
 ### [PokeMove]()
