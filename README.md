@@ -10,18 +10,18 @@ CSSE student at UWB with experience in Python, Java, C++, and SQL. Actively seek
 ### [Anime Online Database]()
 - Description: An anime-related project involving web scraping, MySQL database management, and data visualization.
 - Features: Web scraping MyAnimeList, database management, data visualization.
-- Technologies: Python, BeautifulSoup, MySQL, matplotlib.
+- Technologies: Python, MySQL
 
 ### [Riot Database]()
 - Description: A project related to a Spotify database.
 - Features: Spotify data analysis, database management.
-- Technologies: Python, pandas, Spotify API, SQLite.
+- Technologies: Python
 
 ## 📫 How to reach me:
 - LinkedIn: [Travis Huynh](https://www.linkedin.com/in/travis-huynh-626973221/)
 - Website: [travishuynh.com](https://travispersonalwebsite.netlify.app/)
 
-Feel free to reach out for collaboration opportunities or to discuss tech-related projects!
+Feel free to reach out!
 
 
 <!--
