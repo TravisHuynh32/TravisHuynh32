@@ -1,22 +1,6 @@
 ## Hi there 👋 I'm Travis Huynh!
 CSSE student at UWB with experience in Python, Java, C++, and SQL. Actively seeking opportunities to contribute to impactful projects and make a difference in the tech industry!
 
-## Projects
-### [PokeMove]()
-- Description: A Pokemon Move Finder program using Python's tkinter library for the GUI.
-- Features: Input validation, modern GUI design, integration with PokeAPI.
-- Technologies: Python, tkinter, PokeAPI.
-
-### [Anime Online Database]()
-- Description: An anime-related project involving web scraping, MySQL database management, and data visualization.
-- Features: Web scraping MyAnimeList, database management, data visualization.
-- Technologies: Python, MySQL
-
-### [Riot Database]()
-- Description: A project related to a Spotify database.
-- Features: Spotify data analysis, database management.
-- Technologies: Python
-
 ## 📫 How to reach me:
 - LinkedIn: [Travis Huynh](https://www.linkedin.com/in/travis-huynh-626973221/)
 - Website: [travishuynh.com](https://travispersonalwebsite.netlify.app/)
