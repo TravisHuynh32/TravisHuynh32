@@ -8,30 +8,24 @@
 - Seeking opportunities to contribute to impactful projects and make a difference in the tech industry.
 
 ## Projects
-### [PokeMove](link-to-pokemove-repo)
+### [PokeMove]()
 - Description: A Pokemon Move Finder program using Python's tkinter library for the GUI.
 - Features: Input validation, modern GUI design, integration with PokeAPI.
 - Technologies: Python, tkinter, PokeAPI.
 
-### [Anime Online Database](link-to-anime-database-repo)
+### [Anime Online Database]()
 - Description: An anime-related project involving web scraping, MySQL database management, and data visualization.
 - Features: Web scraping MyAnimeList, database management, data visualization.
 - Technologies: Python, BeautifulSoup, MySQL, matplotlib.
 
-### [Riot Database](link-to-riot-database-repo)
+### [Riot Database]()
 - Description: A project related to a Spotify database.
 - Features: Spotify data analysis, database management.
 - Technologies: Python, pandas, Spotify API, SQLite.
 
-## Skills
-- Programming Languages: Python, SQL, HTML/CSS, JavaScript.
-- Tools & Technologies: Git, Flask, React, Bootstrap, MySQL, SQLite.
-- Data Analysis & Visualization: pandas, matplotlib, seaborn.
-- Other: GIS (ArcGIS Pro), C++.
-
-## Get in Touch
-- LinkedIn: [Travis Huynh](link-to-linkedin-profile)
-- Website: [travishuynh.com](link-to-website)
+## 📫 How to reach me:
+- LinkedIn: [Travis Huynh](https://www.linkedin.com/in/travis-huynh-626973221/)
+- Website: [travishuynh.com](https://travispersonalwebsite.netlify.app/)
 
 Feel free to reach out for collaboration opportunities or to discuss tech-related projects!
 
