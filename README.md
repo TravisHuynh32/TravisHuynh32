@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Travis Huynh!
+## Hi there 👋 I'm Travis Huynh!
 
 ## About Me
 - CSSE student at UWB
