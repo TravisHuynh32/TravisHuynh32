@@ -1,6 +1,4 @@
 ## Hi there 👋 I'm Travis Huynh!
-
-## About Me
 - CSSE student at UWB
 - Experienced in Python, Java, C++, SQL.
 - Interested in software engineering, data science and web development.
