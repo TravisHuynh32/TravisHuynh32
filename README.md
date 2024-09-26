@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Travis Huynh!
-CSSE student at UWB with experience in Python, Java, React.js, and SQL. Actively seeking opportunities to contribute to impactful projects and make a difference in the tech industry!
+CSSE student at UWB with experience in Full-Stack Development. Actively seeking opportunities to contribute to impactful projects and make a difference in the tech industry!
 
 ## 📫 How to reach me:
 - LinkedIn: [Travis Huynh](https://www.linkedin.com/in/travis-huynh-626973221/)
